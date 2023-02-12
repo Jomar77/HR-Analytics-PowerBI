@@ -6,8 +6,10 @@ To view the report, you will need to have PowerBI Desktop installed on your comp
 
 Once you have PowerBI Desktop installed, simply download the repository and open the HR_Analytics.pbix file in PowerBI Desktop to start exploring the report.
 
-## Data Sources
-The report is based on a fictional HR dataset, which is included in the PowerBI file. No additional data sources are needed to view the report.
+## Sample
+<a href="https://github.com/Jomar77/HR-Analytics-PowerBI/blob/main/report.png">
+    <img src="report.png" alt="report">
+  </a>
 
 ## Features
 The report includes a number of interactive visualizations and data insights, including:
