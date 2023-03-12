@@ -7,8 +7,14 @@ To view the report, you will need to have PowerBI Desktop installed on your comp
 Once you have PowerBI Desktop installed, simply download the repository and open the HR_Analytics.pbix file in PowerBI Desktop to start exploring the report.
 
 ## Sample
+### v1 template
 <a href="https://github.com/Jomar77/HR-Analytics-PowerBI/blob/main/report.png">
     <img src="report.png" alt="report" width="902" height="522">
+  </a>
+ 
+### v2 template
+<a href="https://github.com/Jomar77/HR-Analytics-PowerBI/blob/main/report1.png">
+    <img src="report1.png" alt="report" width="902" height="522">
   </a>
 
 ## Features
